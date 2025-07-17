@@ -8,7 +8,7 @@ function play(event) {
 }
 
 function stop() {
-    btn[0].pause();
+    btn.pause();
 }
 
 myButtons.forEach(button => {
